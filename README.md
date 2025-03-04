@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/SonaliSahu_23" target="blank"><img src="https://img.shields.io/twitter/follow/sonalisahu_23?logo=twitter&style=for-the-badge" alt="sonalisahu_23" /></a> </p>
 
-- 📫 How to reach me **23sonalisahu@gmail.com**
+- 📫 How to reach me **sonalisahu2323@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
