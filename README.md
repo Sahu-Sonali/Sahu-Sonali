@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahu-sonali&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-sonali" /> </p>
 
-<p align="left"> <a href="https://twitter.com/SonaliSahu_23" target="blank"><img src="https://img.shields.io/twitter/follow/sonalisahu_23?logo=twitter&style=for-the-badge" alt="sonalisahu_23" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/SonaliSahu_23" target="blank">
+    <img src="https://img.shields.io/badge/follow-%40SonaliSahu__23-black?style=for-the-badge&logo=x&logoColor=white" alt="SonaliSahu_23" />
+  </a> 
+</p>
 
 - 📫 How to reach me **sonalisahu2323@gmail.com**
 
