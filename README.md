@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahu-sonali&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-sonali" /> </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://twitter.com/SonaliSahu_23" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40SonaliSahu__23-black?style=for-the-badge&logo=x&logoColor=white" alt="SonaliSahu_23" />
-  </a> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X Logo" width="25" height="25">
+    Follow @SonaliSahu_23
+  </a>
 </p>
+
 
 - 📫 How to reach me **sonalisahu2323@gmail.com**
 
